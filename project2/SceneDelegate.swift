@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  project2
 //
-//  Created by 2090KM on 3/3/23.
+//  Created by Tomas on 3/3/23.
 //
 
 import UIKit
